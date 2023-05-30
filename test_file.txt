@@ -1,0 +1,1 @@
+Ini adalah file percobaan untuk mengirim isi sebuah file dari server ke client.
